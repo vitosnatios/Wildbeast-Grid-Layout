@@ -1,5 +1,5 @@
 # Wildbeast (Display grid)
-Live adress: https://vitosnatios.github.io/Wildbeast-display-grid/ \
+Live adress: https://vitosnatios.github.io/Wildbeast-Grid-Layout/ \
 Projeto final do curso de CSS Grid Layout pela Origamid. \
 Projeto totalmente focado no CSS. 
 
