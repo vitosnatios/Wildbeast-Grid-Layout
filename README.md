@@ -1,6 +1,6 @@
 # Wildbeast (Display grid)
 Live adress: https://vitosnatios.github.io/Wildbeast-display-grid/ \
-Projeto final do curso de Display Grid pela Origamid. \
+Projeto final do curso de CSS Grid Layout pela Origamid. \
 Projeto totalmente focado no CSS. 
 
 ## Durante esse curso pude aprender sobre o uso de: 
