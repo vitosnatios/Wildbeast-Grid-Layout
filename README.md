@@ -17,7 +17,7 @@ Grid container: \
 • grid auto flow \
 • grid (atalho) \
 • justify content, justify items \
-• align content, align items \
+• align content, align items 
 
 Grid item: \
 • grid column \
